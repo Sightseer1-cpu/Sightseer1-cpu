@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Sightseer1-cpu
-- 👀 I’m interested in gaining power by force with coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on hark
-- 📫 How to reach me: null
-- 😄 Pronouns: they/her
-- ⚡ Fun fact: null
-
-<!---
-Sightseer1-cpu/Sightseer1-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+While current security measures are often regarded as unbreakable, there is significant potential in introducing an "echo file" exec by utilizing programming languages different from those already employed in the system. This novel approach could expose vulnerabilities that were previously overlooked, leading to stronger and more resilient attacking protocols.
