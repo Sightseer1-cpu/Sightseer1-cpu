@@ -1,1 +1,1 @@
-While current security measures are often regarded as unbreakable, there is significant potential in introducing an "echo file" exec by utilizing programming languages different from those already employed in the system. This novel approach could expose vulnerabilities that were previously overlooked, leading to stronger and more resilient attacking protocols.
+I can do it. But don't leak it
